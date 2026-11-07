@@ -1,16 +1,57 @@
-## Hi there 👋
+# ¡Hola! Soy Gabriel Moreno Vargas 👋
+### 🛡️ SecOps Engineer | SOC Analyst | Cloud Security Enthusiast
 
-<!--
-**gabrielmorenovargas/gabrielmorenovargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional apasionado por la **Seguridad de la Información y las Operaciones de Seguridad (SecOps)**. Me especializo en el análisis de amenazas, emulación de adversarios, despliegue de arquitecturas defensivas (SIEM/SOC) y seguridad en infraestructuras Cloud. Mi enfoque combina la respuesta técnica ante incidentes con la automatización defensiva asistida por Inteligencia Artificial.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Certificaciones Destacadas
+
+| ☁️ Cloud (AWS) | 🛡️ Incident Response & SOC | 🧠 Fundamentos & Soft Skills |
+| :--- | :--- | :--- |
+| • **AWS Cloud Practitioner Essentials**<br>• AWS Networking Basics<br>• AWS EC2 Basics & Identity (IAM) | • **Analyst SOC 101** (Academia de Ciberseguridad)<br>• **Manejo de Incidentes (CSIRT/CERT)** - CEDIA<br>• Bootcamp: SOC Analyst Lvl 1 (DOJO) | • **EF SET English Certificate: C2 Proficient**<br>• Cybersecurity Essentials (Linux Foundation)<br>• Design Thinking / Lean Six Sigma |
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+🔹 **Cybersecurity & SecOps:**
+![Wazuh](https://shields.io)
+![Caldera](https://shields.io)
+![MISP](https://shields.io)
+![Docker](https://shields.io)
+
+🔹 **Cloud Platforms & Infrastructure:**
+![AWS](https://shields.io)
+![Linux](https://shields.io)
+![Cisco](https://shields.io)
+
+🔹 **Development & AI Automation:**
+![Python](https://shields.io)
+![Java](https://shields.io)
+![AI Agents](https://shields.io)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://vercel.app" height="175" alt="Gabriel's GitHub stats" />
+  <img src="https://vercel.app" height="175" alt="Gabriel's Top Langs" />
+</p>
+
+---
+
+### 💡 Proyectos en Destacado
+
+*   **[mi-soc-agent](https://github.com):** Plataforma agéntica de análisis SOC Nivel 2. Investigación forense y triaje automatizado asistido por Inteligencia Artificial.
+*   **[misp-threat-intelligence-lab](https://github.com):** Despliegue integral de un laboratorio corporativo de Inteligencia de Amenazas y compartición de IoCs mediante MISP.
+*   **[ES_SecOpsPortafol.io](https://github.io):** Portafolio Web profesional donde recopilo reportes de auditoría de TI (ISO 27001/22301) y laboratorios SIEM controlados.
+
+---
+
+### 🤝 Conectemos
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:gabrielmorenovargas@gmail.com)
+[![Portfolio Web](https://shields.io)](https://github.io)
