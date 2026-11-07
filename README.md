@@ -16,20 +16,21 @@ Soy un profesional apasionado por la **Seguridad de la Información y las Operac
 ### 🛠️ Tecnologías y Herramientas
 
 🔹 **Cybersecurity & SecOps:**
-![Wazuh](https://shields.io)
-![Caldera](https://shields.io)
-![MISP](https://shields.io)
-![Docker](https://shields.io)
+<img src="https://shields.io" alt="Wazuh" /> 
+<img src="https://shields.io" alt="Caldera" /> 
+<img src="https://shields.io" alt="MISP" /> 
+<img src="https://shields.io" alt="Docker" />
 
 🔹 **Cloud Platforms & Infrastructure:**
-![AWS](https://shields.io)
-![Linux](https://shields.io)
-![Cisco](https://shields.io)
+<img src="https://shields.io" alt="AWS" /> 
+<img src="https://shields.io" alt="Linux" /> 
+<img src="https://shields.io" alt="Cisco" />
 
 🔹 **Development & AI Automation:**
-![Python](https://shields.io)
-![Java](https://shields.io)
-![AI Agents](https://shields.io)
+<img src="https://shields.io" alt="Python" /> 
+<img src="https://shields.io" alt="Java" /> 
+<img src="https://shields.io" alt="AI Agents" />
+
 
 ---
 
@@ -52,6 +53,13 @@ Soy un profesional apasionado por la **Seguridad de la Información y las Operac
 
 ### 🤝 Conectemos
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:gabrielmorenovargas@gmail.com)
-[![Portfolio Web](https://shields.io)](https://github.io)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+<a href="mailto:gabrielmorenovargas@gmail.com">
+  <img src="https://shields.io" alt="Email" />
+</a>
+<a href="https://github.io" target="_blank">
+  <img src="https://shields.io" alt="Portfolio Web" />
+</a>
+
