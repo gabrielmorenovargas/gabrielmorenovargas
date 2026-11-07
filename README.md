@@ -36,7 +36,7 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 **Cloud Platforms & Infrastructure**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,linux,windows,kali,ubuntu,docker,jenkins,bash,powershell" />
   </a>
