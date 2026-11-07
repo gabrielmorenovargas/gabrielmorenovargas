@@ -29,11 +29,8 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 <p>
   
 <img src="https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=flat-square) </br>
-<img src="https://img.shields.io/badge//MITRE-Caldera-8B0000?style=for-the-badge&logo=caldera&logoColor=white" alt="Caldera" />
-![MITRE Caldera](https://img.shields.io/badge/MITRE-Caldera-8B0000?style=flat-square) </br>
+<img src="https://img.shields.io/badge/MITRE-Caldera-8B0000?style=for-the-badge&logo=caldera&logoColor=white" alt="Caldera" />
 <img src="https://img.shields.io/badge/MISP-Threat_Intelligence-1679A7?style=for-the-badge&logo=misp&logoColor=white" alt="MISP" />
-![MISP](https://img.shields.io/badge/MISP-Threat_Intelligence-1679A7?style=flat-square) </br>
 
 **Cloud Platforms & Infrastructure**
 
