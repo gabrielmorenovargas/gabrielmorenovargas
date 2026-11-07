@@ -31,7 +31,7 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,windows,kali,ubuntu,docker,jenkins,bash,powershell&perline=5" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,windows,kali,ubuntu,docker,jenkins,bash,powershell" />
   </a>
 </p>
 
