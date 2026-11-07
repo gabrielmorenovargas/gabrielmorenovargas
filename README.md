@@ -30,6 +30,15 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 ![MITRE Caldera](https://img.shields.io/badge/MITRE-Caldera-8B0000?style=flat-square) </br>
 ![MISP](https://img.shields.io/badge/MISP-Threat_Intelligence-1679A7?style=flat-square) </br>
 
+### 🛡️ Cybersecurity & SecOps
+
+<p>
+  <a href="https://wazuh.com/" target="_blank"><strong>Wazuh</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://caldera.mitre.org/" target="_blank"><strong>MITRE Caldera</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.misp-project.org/" target="_blank"><strong>MISP</strong></a>
+</p>
 
 **Cloud Platforms & Infrastructure**
 
