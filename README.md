@@ -26,7 +26,9 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 **Cybersecurity & Security Operations**
 
-
+<p>
+  
+<img src="https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wazuh" />
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=flat-square) </br>
 ![MITRE Caldera](https://img.shields.io/badge/MITRE-Caldera-8B0000?style=flat-square) </br>
 ![MISP](https://img.shields.io/badge/MISP-Threat_Intelligence-1679A7?style=flat-square) </br>
