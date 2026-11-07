@@ -26,7 +26,6 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=flat-square)
 ![MITRE Caldera](https://img.shields.io/badge/MITRE-Caldera-8B0000?style=flat-square)
 ![MISP](https://img.shields.io/badge/MISP-Threat_Intelligence-1679A7?style=flat-square)
-![Docker](https://cdn.simpleicons.org/docker/2496ED)
 
 **Cloud Platforms & Infrastructure**
 
@@ -75,7 +74,7 @@ Portafolio profesional con reportes de auditoría de TI, evaluaciones alineadas 
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielmorenovargas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gabrielmorenovargas@gmail.com">
