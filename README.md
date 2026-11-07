@@ -46,15 +46,6 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielmorenovargas&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmorenovargas&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
 ### 💡 Featured Projects
 
 **🔹 [mi-soc-agent](https://github.com/gabrielmorenovargas/mi-soc-agent)**
