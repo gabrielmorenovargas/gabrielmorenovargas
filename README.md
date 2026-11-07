@@ -35,6 +35,7 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="32" alt="Cisco" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" />
 </p>
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker)](https://skillicons.dev)
 
 **Development, Automation & AI**
 
