@@ -31,16 +31,11 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,windows,kali,ubuntu,docker,jenkins,bash,powershell&perline=3" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,windows,kali,ubuntu,docker,jenkins,bash,powershell&perline=5" />
   </a>
 </p>
 **Development, Automation & AI**
 
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" />
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="32" alt="Java" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub" />
-</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,html,vscode,github,dynamodb&perline=5" />
