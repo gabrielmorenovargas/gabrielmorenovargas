@@ -2,11 +2,11 @@
 
 ### 🛡️ SecOps Engineer | SOC Analyst | Cloud Security Enthusiast
 
-<p align="justify">
+<div align="justify">
 Profesional de Seguridad de la Información e Infraestructura TI, enfocado en **Security Operations (SecOps), Threat Intelligence, Incident Response y Cloud Security**.
 
 Me especializo en análisis de amenazas, emulación de adversarios, implementación de arquitecturas defensivas SIEM/SOC y automatización de procesos de seguridad. Integro capacidades de **Inteligencia Artificial y agentes autónomos** para optimizar el análisis, la investigación y la respuesta ante incidentes.
-</p">
+</div>
 
 ---
 
