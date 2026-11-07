@@ -30,8 +30,7 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 **Cloud Platforms & Infrastructure**
 
 <p>
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="32" alt="Amazon Web Services" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/amazonaws.svg" height="32" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/amazonaws.svg" height="32" alt="Amazon Web Services" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="32" alt="Linux" />
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="32" alt="Cisco" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" />
