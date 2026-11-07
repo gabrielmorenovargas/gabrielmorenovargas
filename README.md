@@ -34,6 +34,7 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
     <img src="https://skillicons.dev/icons?i=aws,linux,windows,kali,ubuntu,docker,jenkins,bash,powershell&perline=5" />
   </a>
 </p>
+
 **Development, Automation & AI**
 
 <p align="center">
