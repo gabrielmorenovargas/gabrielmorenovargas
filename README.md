@@ -26,7 +26,7 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 **Cybersecurity & Security Operations**
 
-<div align="center">  
+<div align="left">  
   
 <img src="https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
 <img src="https://img.shields.io/badge/MITRE-Caldera-8B0000?style=for-the-badge&logo=caldera&logoColor=white" alt="Caldera" />
@@ -44,7 +44,7 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 **Development, Automation & AI**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,html,vscode,github,dynamodb&perline=5" />
   </a>
