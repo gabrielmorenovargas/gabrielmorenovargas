@@ -24,9 +24,11 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 ### 🛠️ Tecnologías y herramientas
 
 **Cybersecurity & Security Operations**
-<p align="justify">![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=flat-square)</p> 
-<p align="justify">![MITRE Caldera](https://img.shields.io/badge/MITRE-Caldera-8B0000?style=flat-square)</p>
-<p align="justify">![MISP](https://img.shields.io/badge/MISP-Threat_Intelligence-1679A7?style=flat-square)</p>
+<div align="justify">
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=flat-square)
+![MITRE Caldera](https://img.shields.io/badge/MITRE-Caldera-8B0000?style=flat-square)
+![MISP](https://img.shields.io/badge/MISP-Threat_Intelligence-1679A7?style=flat-square)
+</div>
 
 **Cloud Platforms & Infrastructure**
 
