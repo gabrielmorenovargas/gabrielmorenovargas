@@ -29,15 +29,9 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 **Cloud Platforms & Infrastructure**
 
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/amazonaws.svg" height="32" alt="Amazon Web Services" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="32" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="32" alt="Cisco" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" />
-</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,windows,kali,ubuntu,docker,jenkins,bash,powershell&perline=3" />
   </a>
 </p>
 **Development, Automation & AI**
@@ -47,7 +41,11 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
   <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="32" alt="Java" />
   <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub" />
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,vscode,github,dynamodb&perline=5" />
+  </a>
+</p>
 ---
 
 ### 💡 Featured Projects
