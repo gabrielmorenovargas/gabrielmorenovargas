@@ -31,6 +31,7 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 <img src="https://img.shields.io/badge/MITRE-Caldera-8B0000?style=for-the-badge&logo=caldera&logoColor=white" alt="Caldera" />
 <img src="https://img.shields.io/badge/MISP-Threat_Intelligence-1679A7?style=for-the-badge&logo=misp&logoColor=white" alt="MISP" />
 </div>
+
 **Cloud Platforms & Infrastructure**
 
 <p align="center">
