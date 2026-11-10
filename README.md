@@ -57,6 +57,11 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 Plataforma agéntica de análisis SOC Nivel 2. Integra investigación forense, análisis de amenazas y automatización del triaje de incidentes mediante Inteligencia Artificial.
 
+* **🔹 [prep-licencia-florida](https://github.com/gabrielmorenovargas/prep-licencia-florida)**
+
+Simulador interactivo y sistema de evaluación desarrollado en Python para la preparación de la licencia de Florida.
+
+
 **🔹 [misp-threat-intelligence-lab](https://github.com/gabrielmorenovargas/misp-threat-intelligence-lab)**
 
 Implementación de un laboratorio de Cyber Threat Intelligence (CTI) utilizando MISP para la gestión, correlación y compartición de Indicadores de Compromiso (IoCs).
