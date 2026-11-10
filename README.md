@@ -57,7 +57,7 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 Plataforma agéntica de análisis SOC Nivel 2. Integra investigación forense, análisis de amenazas y automatización del triaje de incidentes mediante Inteligencia Artificial.
 
-* **🔹 [prep-licencia-florida](https://github.com/gabrielmorenovargas/prep-licencia-florida)**
+**🔹 [prep-licencia-florida](https://github.com/gabrielmorenovargas/prep-licencia-florida)**
 
 Simulador interactivo y sistema de evaluación desarrollado en Python para la preparación de la licencia de Florida.
 
