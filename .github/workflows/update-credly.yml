@@ -2,7 +2,7 @@ name: Update Credly Badges
 
 on:
   schedule:
-    - cron: "0 9 * * 1"
+    - cron: "0 9 * * *" # Se ejecuta una vez al día a las 09:00 UTC (04:00 AM Ecuador)
   workflow_dispatch:
 
 permissions:
@@ -13,10 +13,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update Credly badges
+
+      - name: Update Credly badges (Español)
         uses: Sagargupta16/credly-badge-readme-action@v1
         with:
           credly-username: "gabriel-andres-moreno-vargas"
           badge-size: "110"
-          badges-per-row: "6"
+          readme-path: "README.md"
+          commit: false
+
+      - name: Update Credly badges (English)
+        uses: Sagargupta16/credly-badge-readme-action@v1
+        with:
+          credly-username: "gabriel-andres-moreno-vargas"
+          badge-size: "110"
+          readme-path: "README.en.md"
           commit: true
