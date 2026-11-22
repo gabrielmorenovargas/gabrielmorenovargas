@@ -16,6 +16,27 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 <div align="left">
 
 <!-- CREDLY-BADGES:START -->
+🏅 **Industry Certifications**
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/285e3657-f0fc-4da9-a77d-da37bd72a76b" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110" height="110"></a>
+
+</div>
+
+📚 **Knowledge & Learning Badges**
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/8d4ecb50-232c-4dfd-9f85-6a1f415be9e1" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/a91eec0e-9188-4c9d-b5f5-ba1053aa5682" title="LFC108: Cybersecurity Essentials"><img src="https://images.credly.com/size/110x110/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/blob" alt="LFC108: Cybersecurity Essentials" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/af003fdf-6f3e-460f-baa7-c68aa1f53844" title="LFS101: Introduction to Linux"><img src="https://images.credly.com/size/110x110/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" alt="LFS101: Introduction to Linux" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/0e2c0ea6-6900-4a8e-aa5b-b0d2dcb5f6ae" title="AWS Knowledge: Cloud Essentials - Training Badge"><img src="https://images.credly.com/size/110x110/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Knowledge: Cloud Essentials - Training Badge" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/f841f10d-b55e-42ff-85c0-5c8763e69139" title="AWS Educate Getting Started with Security - Training Badge"><img src="https://images.credly.com/size/110x110/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob" alt="AWS Educate Getting Started with Security - Training Badge" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/c3e24087-05d4-4274-a40e-6e8f1962ebd6" title="AWS Educate Getting Started with Networking - Training Badge"><img src="https://images.credly.com/size/110x110/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" alt="AWS Educate Getting Started with Networking - Training Badge" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/bb384337-3523-4607-a814-b95254ae2cdd" title="AWS Educate Introduction to Cloud 101 - Training Badge"><img src="https://images.credly.com/size/110x110/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" alt="AWS Educate Introduction to Cloud 101 - Training Badge" width="110" height="110"></a>
+
+</div>
 <!-- CREDLY-BADGES:END -->
 
 </div>
