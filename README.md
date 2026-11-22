@@ -15,8 +15,8 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 <div align="left">
 
-<!-- CREDLY-badges:START -->
-<!-- CREDLY-badges:END -->
+<!-- CREDLY-BADGES:START -->
+<!-- CREDLY-BADGES:END -->
 
 </div>
 
