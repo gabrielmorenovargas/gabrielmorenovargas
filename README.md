@@ -1,3 +1,12 @@
+<div align="right">
+  <a href="./README.md">
+    <img src="https://shields.io" alt="Español" />
+  </a>
+  <a href="./README.en.md">
+    <img src="https://shields.io" alt="English" />
+  </a>
+</div>
+
 # ¡Hola! Soy Gabriel Moreno Vargas 👋
 
 ### 🛡️ SecOps Engineer | SOC Analyst | AWS Certified Cloud Practitioner
