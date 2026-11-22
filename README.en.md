@@ -24,7 +24,8 @@ I specialize in threat analysis, adversary emulation, defensive SIEM/SOC archite
 
 <div align="left">
 
-<!-- Pega aquí el mismo bloque HTML de imágenes que generó el Action en tu README.md -->
+<!-- CREDLY-BADGES:START -->
+<!-- CREDLY-BADGES:END -->
 
 </div>
 
