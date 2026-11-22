@@ -1,11 +1,9 @@
 <div align="right">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/Idioma-Español-555555?style=for-the-badge" alt="Español" />
-  </a>
-  <a href="./README.en.md">
-   <img src="https://img.shields.io/badge/Language-English-0A66C2?style=for-the-badge" alt="English" />
+    <img src="https://shields.io/badge/_Leer_en_Español-0A66C2?style=for-the-badge" alt="Leer en Español" />
   </a>
 </div>
+
 
 # Hi there! I'm Gabriel Moreno Vargas 👋
 
