@@ -1,6 +1,6 @@
 # ¡Hola! Soy Gabriel Moreno Vargas 👋
 
-### 🛡️ SecOps Engineer | SOC Analyst | Cloud Security Enthusiast
+### 🛡️ SecOps Engineer | SOC Analyst | AWS Certified Cloud Practitioner
 
 <div align="justify">
 
@@ -11,11 +11,18 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 ---
 
+### 🏅 Credly Badges
+
+<!-- CREDLY-BADGES:START -->
+<!-- CREDLY-BADGES:END -->
+
+---
+
 ### 🚀 Certificaciones y formación destacada
 
 | ☁️ Cloud & Infrastructure | 🛡️ Security Operations | 🧠 Professional Skills |
 |:---|:---|:---|
-| AWS Cloud Practitioner Essentials | SOC Analyst 101 – Academia de Ciberseguridad | EF SET English Certificate – C2 |
+| **AWS Certified Cloud Practitioner (CLF-C02)** | SOC Analyst 101 – Academia de Ciberseguridad | EF SET English Certificate – C2 |
 | AWS Networking Basics | Manejo de Incidentes (CSIRT/CERT) – CEDIA | Cybersecurity Essentials – Linux Foundation |
 | AWS EC2 Basics & Identity (IAM) | SOC Analyst Level 1 – DOJO Bootcamp | Design Thinking |
 | | | Lean Six Sigma |
@@ -49,6 +56,7 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
     <img src="https://skillicons.dev/icons?i=python,html,vscode,github,dynamodb&perline=5" />
   </a>
 </p>
+
 ---
 
 ### 💡 Featured Projects
@@ -60,7 +68,6 @@ Plataforma agéntica de análisis SOC Nivel 2. Integra investigación forense, a
 **🔹 [prep-licencia-florida](https://github.com/gabrielmorenovargas/prep-licencia-florida)**
 
 Simulador interactivo y sistema de evaluación desarrollado en Python para la preparación de la licencia de Florida.
-
 
 **🔹 [misp-threat-intelligence-lab](https://github.com/gabrielmorenovargas/misp-threat-intelligence-lab)**
 
