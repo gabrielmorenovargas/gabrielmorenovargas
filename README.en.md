@@ -69,9 +69,11 @@ I specialize in threat analysis, adversary emulation, defensive SIEM/SOC archite
 
 <div align="left">  
   
-<img src="https://shields.io" alt="Wazuh" />
-<img src="https://shields.io" alt="Caldera" />
-<img src="https://shields.io" alt="MISP" />
+<img src="https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+<img src="https://img.shields.io/badge/MITRE-Caldera-8B0000?style=for-the-badge&logo=caldera&logoColor=white" alt="Caldera" />
+<img src="https://img.shields.io/badge/MISP-Threat_Intelligence-1679A7?style=for-the-badge&logo=misp&logoColor=white" alt="MISP" />
+
+</div>
 
 </div>
 
@@ -79,7 +81,7 @@ I specialize in threat analysis, adversary emulation, defensive SIEM/SOC archite
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,windows,kali,ubuntu,docker,jenkins,bash,powershell" />
   </a>
 </p>
 
@@ -87,7 +89,7 @@ I specialize in threat analysis, adversary emulation, defensive SIEM/SOC archite
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=python,html,vscode,github,dynamodb&perline=5" />
   </a>
 </p>
 
@@ -116,14 +118,14 @@ Professional portfolio featuring IT audit reports, assessments aligned with ISO 
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/gabrielmorenovargas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gabrielmorenovargas@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.io">
-    <img src="https://shields.io" alt="Portfolio" />
+  <a href="https://gabrielmorenovargas.github.io/ES_SecOpsPortafol.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
