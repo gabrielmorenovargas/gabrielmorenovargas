@@ -13,16 +13,12 @@ Me especializo en análisis de amenazas, emulación de adversarios, implementaci
 
 ### 🏅 Credly Badges
 
-<!--START_SECTION:badges-->
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/285e3657-f0fc-4da9-a77d-da37bd72a76b)
-[![Introduction to Cybersecurity](https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/8d4ecb50-232c-4dfd-9f85-6a1f415be9e1)
-[![LFC108: Cybersecurity Essentials](https://images.credly.com/size/80x80/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/blob)](https://www.credly.com/badges/a91eec0e-9188-4c9d-b5f5-ba1053aa5682)
-[![LFS101: Introduction to Linux](https://images.credly.com/size/80x80/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)](https://www.credly.com/badges/af003fdf-6f3e-460f-baa7-c68aa1f53844)
-[![AWS Knowledge: Cloud Essentials - Training Badge](https://images.credly.com/size/80x80/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob)](https://www.credly.com/badges/0e2c0ea6-6900-4a8e-aa5b-b0d2dcb5f6ae)
-[![AWS Educate Getting Started with Security - Training Badge](https://images.credly.com/size/80x80/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob)](https://www.credly.com/badges/f841f10d-b55e-42ff-85c0-5c8763e69139)
-[![AWS Educate Getting Started with Networking - Training Badge](https://images.credly.com/size/80x80/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob)](https://www.credly.com/badges/c3e24087-05d4-4274-a40e-6e8f1962ebd6)
-[![AWS Educate Introduction to Cloud 101 - Training Badge](https://images.credly.com/size/80x80/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob)](https://www.credly.com/badges/bb384337-3523-4607-a814-b95254ae2cdd)
-<!--END_SECTION:badges-->
+<div align="left">
+
+<!-- CREDLY-badges:START -->
+<!-- CREDLY-badges:END -->
+
+</div>
 
 ---
 
